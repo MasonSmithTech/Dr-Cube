@@ -11,6 +11,12 @@ This project is just starting in week 2 of terra, and will be continued for many
 
 If you have any ideas for features I can add you can leave your suggestions in the unity play comments, or by emailing me at masonbbbsmith@gmail.com.
 
+## Current features
+Currently, the game has these features:
+- starting level where you can start the game from
+- learning level which allows you to learn the controls
+- first "Lab" level which is a work in progress but shows you the lab that you work out out of. 
+
 ### features I want to add
 - coin system that you can collect and spend coins in order to help accelerate your research
 - health system that makes you die after you take enough damage
