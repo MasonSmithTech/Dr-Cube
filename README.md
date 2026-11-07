@@ -1,5 +1,11 @@
 # Dr Cube
 Dr Cube is a platformer game that is based on the story of Dr Cube. Dr Cube is a scientist turned adventurer/explorer who is trying to save earths plant species. Currently, humanity has killed 75% of all plant species because of global warming, so it is up to Dr Cube to explore this world, to try and find clues, and to try and study these plant clues in order to try and revitalize the plant population. 
+<img width="966" height="544" alt="Screenshot 2026-11-01 155911" src="https://github.com/user-attachments/assets/fd9b1d6a-3de0-4fae-bf3c-686e902303c5" />
+
+
+## Why I made it
+I am making Dr Cube because I have had so much fun playing hollow knight recently that I wanted to make a somewhat similar gam for myself, so I came up with the idea of Dr Cube!
+
 
 ## The Challange
 While Dr Cubes actions may seem amicable, many government agencies feel that they must prevent Dr Cube from doing his work, believing that it could give people a false sense of hope and have unintended negative impacts on society, stating that they will "Stop at nothing" to prevent Dr Cubes success. 
