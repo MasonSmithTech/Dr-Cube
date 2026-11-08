@@ -10,6 +10,8 @@ Currently has a title screen, tutorial screen, and also a lab scene.
 
 **New Features**
 - Moving enemy
+- enemy collision and jump on enemy to kill
+- enemy + player collision = knockback
 
 **Known Bugs:**
 - N/A
