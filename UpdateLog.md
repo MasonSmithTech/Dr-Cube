@@ -6,7 +6,10 @@ the most current released version of the game is Beta 0.6, see details and futur
 
 
 ## **Beta 0.6**
-Currently has a title screen, tutorial screen, and also a lab scene. 
+Currently has a title screen, tutorial screen, and also a lab scene.
+
+**New Features**
+- Moving enemy
 
 **Known Bugs:**
 - N/A
