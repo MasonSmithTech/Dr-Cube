@@ -22,6 +22,7 @@ Currently, the game has these features:
 - starting level where you can start the game from
 - learning level which allows you to learn the controls
 - first "Lab" level which is a work in progress but shows you the lab that you work out out of. 
+- moving enemies
 
 ### features I want to add
 - coin system that you can collect and spend coins in order to help accelerate your research
