@@ -17,7 +17,7 @@ This project is just starting in week 2 of terra, and will be continued for many
 
 If you have any ideas for features I can add you can leave your suggestions in the unity play comments, or by emailing me at masonbbbsmith@gmail.com.
 
-## Most Current Version is Betz 0.9
+## Most Current Version is Beta 0.9
 
 ## Current features
 Currently, the game has these features:
