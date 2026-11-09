@@ -1,10 +1,23 @@
 # Update Log
 this is a log where I will be writing about the current release of the game and what features, bugs, and fixes it has... as well as what will come in the next one. 
 
-# Current: Beta 0.8
-the most current released version of the game is Beta 0.8, see details and future updates below. 
+# Current: Beta 0.9
+the most current released version of the game is Beta 0.9, see details and future updates below. 
 
-## **Beta 0.8**
+## **Beta 0.9**
+**New Features**
+- labeled map
+- portals to go to 4 biomes
+- static and moving enemies can cause damage and be killed
+
+**Known Bugs:**
+- portals dont take you anywhere
+- hard to get to Limestone cave cuz of moving enemy
+
+**Fixes:**
+- Map hotkey not working and labels not showing.
+
+## Beta 0.8
 **New Features**
 - working health system
 - death/respawn
