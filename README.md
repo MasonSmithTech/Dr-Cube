@@ -17,17 +17,22 @@ This project is just starting in week 2 of terra, and will be continued for many
 
 If you have any ideas for features I can add you can leave your suggestions in the unity play comments, or by emailing me at masonbbbsmith@gmail.com.
 
+## Most Current Version is Betz 0.9
+
 ## Current features
 Currently, the game has these features:
 - starting level where you can start the game from
 - learning level which allows you to learn the controls
 - first "Lab" level which is a work in progress but shows you the lab that you work out out of. 
+- a health bar and health system
+- static enemies
 - moving enemies
+- enemies inflict damage on player
+- complete location called Lab Valley where the players lab is located
+- a full map system showing the location from a wide view.
 
 ### features I want to add
 - coin system that you can collect and spend coins in order to help accelerate your research
-- health system that makes you die after you take enough damage
-- enemies that can inflict damage and follow/chase you, aswekk as stationary enemies
 - searching feature allowing you to search/scan your position to give approximate location for nearby clues or items of interest
 - make more then the initial environment sprites and build a full level that is explorable and has clues
 - makem more than one soundtrack since the first one is kind of lame and not very good
